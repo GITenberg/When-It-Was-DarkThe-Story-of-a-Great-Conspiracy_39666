@@ -1,0 +1,30 @@
+_repo: When-It-Was-DarkThe-Story-of-a-Great-Conspiracy_39666
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thorne, Guy
+    alias: Gull, Cyril Arthur Edward Ranger
+    birthdate: 1875
+    deathdate: 1923
+    gutenberg_agent_id: '38288'
+    url: http://www.gutenberg.org/2009/agents/38288
+    wikipedia: http://www.gutenberg.org/ebooks/author/39349
+description: ''
+gutenberg_issued: '2012-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conspiracies -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Christian fiction'
+title: 'When It Was Dark: The Story of a Great Conspiracy'
+url: http://www.gutenberg.org/ebooks/39666
