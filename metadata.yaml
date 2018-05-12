@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38288
     wikipedia: http://www.gutenberg.org/ebooks/author/39349
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39666#When-It-Was-DarkThe-Story-of-a-Great-Conspiracy
 gutenberg_issued: '2012-05-10'
 gutenberg_type: Text
 identifiers:
